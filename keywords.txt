@@ -1,0 +1,82 @@
+# SMASHPDF KEYWORDS
+#
+# comments preceded by '#'
+
+
+# agroecolog* agro-ecolog*	[can be spelled with or without hyphen]
+# agroécolog* agro-écolog*
+
+[Aa]gro-?[EÉeé]colog
+
+
+# “conservation agriculture”	
+# “agriculture de conservation”
+# “agricultura de conservación”
+
+[Cc]onservation [Aa]griculture|[Aa]gricultur[ae] de [Cc]onserva(tion|ción)
+
+
+# organic [exclude or flag terms like ‘persistent organic pollutants’ ‘organic growth basis’ ‘organic waste’ ‘volatile organic compounds’ ‘soil organic carbon’]
+# biologique
+# biológico
+# organico
+
+([Oo]rgan|[Bb]iol[oó]g)i(co?|que)
+
+(([Oo]rgan|[Bb]iol[oó]g)i(co?|que))(?! pollutants| growth basis| waste| compounds| carbon)
+
+
+
+# agroforest*
+
+[Aa]groforest
+
+
+# silvopast* sylvopast* silvo-past* sylvo-past*	[can be spelled with i or y and with or without hyphen]
+
+[Ss][iy]lvo-?[Pp]ast
+
+
+# “crop diversification”	
+# “culture diversifiée”
+# diversificación
+
+[Dd]iversifi(ée|ca[ct]i[oó]n)
+
+
+# agrobiodivers* agro-biodivers*
+
+[Aa]gro-?[Bb]iodivers
+
+
+# sustainable agricultur*	
+# “agriculture durable”
+# “agricultura sostenible”
+# “agricultura sustentable”
+
+[Ss]ustainable [Aa]gricultur|[Aa]gricultur[ae] ([Dd]urable|[Ss][ou]sten(ible|table))
+
+
+
+# “sustainable intensification”	
+
+[Ss]ustainable [Ii]ntensification
+
+
+# till	[to look for terms such as no-till, zero till, minimum tillage, ...]
+# “semis direct”
+# “travail du sol”
+# “labranza minima”
+# labranza
+
+[^A-Za-z][Tt]ill|[Tt]ravail [Dd]u [Ss]ol|[Ll]abranza|[[Ss]emis [Dd]irect
+
+
+# permacultur*
+
+[Pp]ermacultur
+
+
+# regenerative
+
+[Rr]egenerative
