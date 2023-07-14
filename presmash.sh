@@ -4,7 +4,7 @@
 # presmash.sh
 #
 # bash script to prepare filesystem for smashpdf.py
-# 1. relpace all white space in dirs and filenames with '_'
+# 1. replace all white space in dirs and filenames with '_'
 # 2. convert all .doc/docx .doc.pdf/.docx.pdf
 #
 # Uses libreoffice for conversion
